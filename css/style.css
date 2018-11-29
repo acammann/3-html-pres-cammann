@@ -1,0 +1,151 @@
+body, html {
+    height: 100%;
+}
+
+.fs-img1 { 
+    /* The image used */
+    background-image: url("/img/power-plant.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.hs-img1 { 
+    /* The image used */
+    background-image: url("/img/Smokestacks-clipart.png");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.hs-img2 { 
+    /* The image used */
+    background-image: url("/img/Solar_panales.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.hs-img3 { 
+    /* The image used */
+    background-image: url("/img/wave_energy.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    width: 50%;
+}
+
+.hs-img4 { 
+    /* The image used */
+    background-image: url("/img/geothermal_energy.png");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 1px;
+}
+
+.hs-img5 { 
+    /* The image used */
+    background-image: url("/img/air_polution_3.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 1px;
+}
+
+.hs-img6 { 
+    /* The image used */
+    background-image: url("/img/sunny_day.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 1px;
+}
+.black-transparent{
+    background-color: rgba(0,0,0,0.5)
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 10vh;
+    font-size: 5vw;
+    text-align: center;
+}
+
+/*full screan video*/
+/* Style the video: 100% width and height to cover the entire window */
+/* Add some content at the bottom of the video/page */
+.content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+}
+
+/* Style the button used to pause/play the video */
+#myBtn {
+    width: 200px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+
+#myBtn:hover {
+    background: #ddd;
+    color: black;
+}
+
