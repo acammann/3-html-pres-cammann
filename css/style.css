@@ -15,66 +15,8 @@ body, html {
     background-size: cover;
     text-align: center;
 }
-
+/*Slide img*/
 .hs-img1 { 
-    /* The image used */
-    background-image: url("/img/Smokestacks-clipart.png");
-
-    /* Full height */
-    height: 100%; 
-
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
-}
-
-.hs-img2 { 
-    /* The image used */
-    background-image: url("/img/Solar_panales.jpg");
-
-    /* Full height */
-    height: 100%; 
-
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
-}
-
-.hs-img3 { 
-    /* The image used */
-    background-image: url("/img/wave_energy.jpg");
-
-    /* Full height */
-    height: 100%; 
-
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
-    width: 50%;
-}
-
-.hs-img4 { 
-    /* The image used */
-    background-image: url("/img/geothermal_energy.png");
-
-    /* Full height */
-    height: 100%; 
-
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
-    padding: 1px;
-}
-
-.hs-img5 { 
     /* The image used */
     background-image: url("/img/air_polution_3.jpg");
 
@@ -89,7 +31,7 @@ body, html {
     padding: 1px;
 }
 
-.hs-img6 { 
+.hs-img2 { 
     /* The image used */
     background-image: url("/img/sunny_day.jpg");
 
@@ -103,6 +45,95 @@ body, html {
     text-align: center;
     padding: 1px;
 }
+
+.hs-img3 { 
+    /* The image used */
+    background-image: url("/img/Mountais_clean.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 1px;
+}
+
+.hs-img4 { 
+    /* The image used */
+    background-image: url("/img/smokestack.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.hs-img5 { 
+    /* The image used */
+    background-image: url("/img/Solar_panales.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.hs-img6 { 
+    /* The image used */
+    background-image: url("/img/wave_energy.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    width: 50%;
+}
+
+.hs-img7 { 
+    /* The image used */
+    background-image: url("/img/geothermal_energy.png");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 1px;
+}
+
+.hs-img8 { 
+    /* The image used */
+    background-image: url("/img/Mountains_2.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 1px;
+}
+
 .black-transparent{
     background-color: rgba(0,0,0,0.5)
 }
